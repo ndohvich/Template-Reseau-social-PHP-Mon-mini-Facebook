@@ -1,0 +1,41 @@
+body{
+  background-image:url("../img/0.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+div.login-card{
+  background-color:#1e2833;
+  color:white;
+  padding:40px;
+  box-shadow:3px 3px 4px rgba(0,0,0,0.5);
+  opacity:0.9;
+}
+
+button.btn.btn-primary.btn-block.btn-lg.btn-signin{
+  color:white;
+  background-color:#0099ff;
+}
+
+a.text-lowercase.text-danger.forgot-password{
+  color:white;
+}
+
+a{
+  color:white;
+}
+
+body{
+  padding:0px;
+}
+
+.ins{
+  color:white;
+  background-color:#0099ff;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.ins:hover{
+  color:white;
+}
